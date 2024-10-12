@@ -25,3 +25,12 @@ Key DevOps Practices
 
     Version Control:
     Tools like Git allow for tracking code changes and collaborating efficiently.
+
+Popular Tools in DevOps
+
+    CI/CD Tools: Jenkins, GitLab CI, GitHub Actions
+    Configuration Management: Ansible, Chef, Puppet
+    Containerization: Docker, Kubernetes
+    Cloud Platforms: AWS, Azure, Google Cloud
+    Monitoring: Prometheus, Grafana, Splunk
+
