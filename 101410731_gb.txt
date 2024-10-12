@@ -28,4 +28,5 @@ Importance of DevOps in the Software Development Lifecycle (SDLC):
 
 
 
-   
+    High Demand: DevOps professionals are in high demand across industries due to the growing need for continuous delivery of software.
+    Versatile Skillset: Knowledge of DevOps tools and practices makes students valuable in roles like DevOps Engineer, Site Reliability Engineer (SRE), and Cloud Engineer.
