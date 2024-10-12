@@ -1,7 +1,6 @@
 COMP 3104 - DevOps Course
 
-The COMP 3104 course at George Brown College focuses on teaching students the fundamentals of DevOps practices,
- which aim to streamline the development and operations processes for software projects. 
+ 
 
 Key Topics Covered:
 - Continuous Integration (CI): Automating the process of merging code changes and running tests to ensure compatibility.
