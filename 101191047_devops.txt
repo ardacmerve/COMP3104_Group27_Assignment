@@ -32,3 +32,10 @@ Career Relevance:
 
 DevOps skills are highly sought after in software development and IT, making this course critical 
 for students looking to pursue roles in DevOps engineering, site reliability engineering (SRE), or software automation
+
+The COMP 3104 DevOps course at George Brown College focuses on teaching students essential DevOps practices, including continuous integration (CI), 
+continuous delivery (CD), and automation of software processes. It emphasizes the integration of development and operations teams to streamline the software development lifecycle. 
+The course also covers industry-standard tools like Docker, Kubernetes, and Jenkins to manage code deployment and infrastructure as code (IaC).
+
+A prerequisite for this course is COMP 3044 Linux Essentials, reflecting the importance of Linux in DevOps environments. It’s typically taken in the later 
+stages of the Computer Programming and Analysis program and is highly relevant for students pursuing roles in DevOps engineering or software automation
