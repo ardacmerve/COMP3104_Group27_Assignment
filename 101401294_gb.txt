@@ -1,3 +1,16 @@
-George Brown College is located in downtown Toronto and offers over 160 programs in various disciplines. 
-It focuses on providing practical, hands-on experience and has strong partnerships with employers, 
-enhancing job readiness for students.
+George Brown College
+
+Location: Toronto, Ontario, Canada
+
+George Brown College (GBC) is a renowned public college that provides students with a wide range of programs 
+including diplomas, certificates, and degrees. It is recognized for its focus on hands-on learning, which 
+prepares students for the workforce. 
+
+The college has three campuses in downtown Toronto: 
+- St. James Campus
+- Casa Loma Campus
+- Waterfront Campus
+
+GBC is well known for its partnerships with employers, giving students the opportunity to gain valuable 
+work experience through co-op programs and internships. It also offers services like career counseling and 
+job placement to help students transition into their chosen fields after graduation.
