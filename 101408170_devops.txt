@@ -9,3 +9,4 @@ DevOps is a set of practices that combines software development (Dev) and IT ope
 
 **Tools and Technologies**
 Some popular tools used in DevOps include Docker, Jenkins, Kubernetes, and Git.
+
