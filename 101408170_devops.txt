@@ -1,0 +1,1 @@
+COMP 3104 - DevOps introduces students to modern software development practices like CI/CD, infrastructure as code, and monitoring. The course covers tools like Git, Jenkins, Docker, and Kubernetes.
