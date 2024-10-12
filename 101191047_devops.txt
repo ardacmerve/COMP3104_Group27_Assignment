@@ -12,3 +12,23 @@ engineer brings to a workplace environment to increase productivity. Analyze and
 various developer operation implementations available and implement hands-on work using
 industry standard toolkit. Create solutions to complex business problems by adhering to the core
 responsibilities of DevOps.
+
+here are some key points:
+Course Focus:
+
+COMP 3104 focuses on DevOps practices, combining development (Dev) and operations (Ops) to automate and improve the software development lifecycle.
+Prerequisites:
+
+Before taking COMP 3104, students must complete Linux Essentials (COMP 3044), as Linux is integral to many DevOps tools and practices.
+Topics Covered:
+
+The course covers CI/CD pipelines, automation tools, and infrastructure as code (IaC), among other key DevOps topics.
+Students learn to use popular tools like Jenkins, Docker, Kubernetes, and Git to manage software deployment and maintenance processes.
+Integration with Projects:
+
+COMP 3104 is part of the later semesters of the Computer Programming and Analysis program, designed to integrate with capstone projects and other courses 
+like web development and mobile application development, applying DevOps principles to real-world scenarios.
+Career Relevance:
+
+DevOps skills are highly sought after in software development and IT, making this course critical 
+for students looking to pursue roles in DevOps engineering, site reliability engineering (SRE), or software automation
