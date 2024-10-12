@@ -9,5 +9,5 @@ Key Topics Covered:
 - Infrastructure as Code (IaC)**: Managing and provisioning computing infrastructure through code, rather than manual processes.
 - Containerization: Using Docker and Kubernetes to create lightweight, portable software environments.
 
-By the end of the course, students are expected to have a strong understanding of how to implement these practices 
+Therefore, by the end of the course, students are expected to have a strong understanding of how to implement these practices 
 using popular DevOps tools like Jenkins, GitHub Actions, Docker, and Kubernetes.
