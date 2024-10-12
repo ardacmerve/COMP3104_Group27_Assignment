@@ -34,3 +34,10 @@ Popular Tools in DevOps
     Cloud Platforms: AWS, Azure, Google Cloud
     Monitoring: Prometheus, Grafana, Splunk
 
+DevOps in the Software Development Lifecycle (SDLC)
+
+Incorporating DevOps into the SDLC helps organizations:
+
+    Integrate testing early through CI pipelines (Shift-Left Testing).
+    Automate deployments to reduce human errors.
+    Ensure continuous feedback, leading to faster iterations.
