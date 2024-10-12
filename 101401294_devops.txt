@@ -1,3 +1,13 @@
-COMP 3104 focuses on the principles and practices of DevOps, including continuous integration, 
-continuous delivery, and automation. Students learn to use tools like Git, GitHub Actions, 
-and Docker to streamline software development and deployment processes.
+COMP 3104 - DevOps Course
+
+The COMP 3104 course at George Brown College focuses on teaching students the fundamentals of DevOps practices,
+ which aim to streamline the development and operations processes for software projects. 
+
+Key Topics Covered:
+- Continuous Integration (CI): Automating the process of merging code changes and running tests to ensure compatibility.
+- Continuous Delivery (CD): Automating the delivery of code changes to production environments.
+- Infrastructure as Code (IaC)**: Managing and provisioning computing infrastructure through code, rather than manual processes.
+- Containerization: Using Docker and Kubernetes to create lightweight, portable software environments.
+
+By the end of the course, students are expected to have a strong understanding of how to implement these practices 
+using popular DevOps tools like Jenkins, GitHub Actions, Docker, and Kubernetes.
