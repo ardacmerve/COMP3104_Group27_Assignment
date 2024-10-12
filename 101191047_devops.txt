@@ -1,3 +1,11 @@
+The COMP 3104 DevOps course is part of George Brown College's Computer Programming and Analysis advanced diploma program. In this course, students learn about DevOps practices, focusing on the integration of development and operations teams to streamline and automate processes in the software development lifecycle. 
+This course equips students with practical skills such as continuous integration, continuous deployment (CI/CD), and infrastructure automation using tools commonly found in modern software environments.
+
+Before taking COMP 3104, students must complete foundational courses such as Linux Essentials (COMP 3044) as a prerequisite. 
+The DevOps course is typically taken in the fifth semester of the program, which also includes other advanced topics like applied data science, mobile application development, and web development using Java. 
+Additionally, the program offers a capstone project, where students apply their accumulated skills, including those learned in the DevOps course​
+
+
 Course Description
 In this course students will learn the procedures, protocols and best practices that a DevOps
 engineer brings to a workplace environment to increase productivity. Analyze and evaluate
