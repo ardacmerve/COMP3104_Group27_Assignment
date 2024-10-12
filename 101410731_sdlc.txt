@@ -1,0 +1,40 @@
+SDLC Overview
+
+The Software Development Life Cycle (SDLC) is a structured process that helps teams design, develop, test, and deliver software efficiently. It typically consists of the following phases:
+
+    Requirement Analysis: Identify what the software needs to do.
+    Design: Create architectural plans and blueprints.
+    Development: Write and implement the code.
+    Testing: Verify that the software functions as expected.
+    Deployment: Release the software to users.
+    Maintenance: Monitor and provide updates as necessary.
+
+What is DevOps?
+
+DevOps is a set of practices and tools aimed at fostering collaboration between development (Dev) and operations (Ops) teams. The goal is to automate processes, improve software quality, and shorten the software delivery cycle.
+How DevOps Fits into the SDLC
+
+    Planning and Requirements Gathering:
+        Collaboration from Day One: DevOps encourages continuous collaboration between developers, operations, and stakeholders right from the planning stage.
+        Helps in defining operational requirements early, ensuring alignment throughout the process.
+
+    Design and Architecture:
+        Infrastructure as Code (IaC): Infrastructure is treated like software, meaning version control and testing apply to both the code and the infrastructure.
+        Enables scalable architectures to handle future demand through automation.
+
+    Development:
+        Version Control and CI/CD Pipelines: DevOps integrates tools like Git for version control and Continuous Integration/Continuous Deployment (CI/CD) pipelines to automate code builds and testing.
+        Reduces human error by automating repetitive tasks such as testing and code review.
+
+    Testing:
+        Automated Testing: DevOps incorporates automated testing (unit tests, integration tests) to ensure code quality throughout development.
+        Continuous testing helps in identifying bugs early in the pipeline, reducing time and effort later.
+
+    Deployment:
+        Continuous Delivery/Deployment: With CI/CD, code can be deployed to production environments frequently and reliably, often multiple times a day.
+        Rolling or Blue-Green Deployments: DevOps supports incremental releases, minimizing the risk of failure during deployment.
+
+    Operations and Maintenance:
+        Monitoring and Feedback Loops: DevOps integrates monitoring tools that provide real-time data about software performance, helping teams identify issues proactively.
+        Incident Response Automation: DevOps tools can trigger alerts and automated responses when problems arise in production.
+
