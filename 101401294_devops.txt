@@ -1,22 +1,22 @@
 COMP 3104 - DevOps Course
 
+ 101401294-Ferdos
 DevOps is a transformative approach in the software development industry that emphasizes collaboration between
- development and operations teams. By fostering a culture of shared responsibility, DevOps aims to shorten the 
- development lifecycle, increase deployment frequency, and improve the quality of software products. This methodology
-  is essential in today’s fast-paced tech landscape, where organizations must rapidly adapt to changing market demands
-   and customer expectations.
+development and operations teams. By fostering a culture of shared responsibility, DevOps aims to shorten the 
+development lifecycle, increase deployment frequency, and improve the quality of software products. This methodology
+is essential in today’s fast-paced tech landscape, where organizations must rapidly adapt to changing market demands
+and customer expectations.
 
 At its core, DevOps combines agile development practices with automation and continuous delivery techniques. 
 It encourages teams to work together throughout the entire software lifecycle, from initial planning to production 
 support. Key practices include Continuous Integration (CI) and Continuous Deployment (CD), which automate the testing
- and deployment processes, allowing teams to release updates quickly and reliably. Additionally, infrastructure as
-  code (IaC) plays a crucial role in managing environments efficiently and consistently. By adopting these practices,
-   organizations can reduce deployment risks, enhance collaboration, and achieve faster time-to-market for their products. 
+and deployment processes, allowing teams to release updates quickly and reliably. Additionally, infrastructure as
+code (IaC) plays a crucial role in managing environments efficiently and consistently. By adopting these practices,
+organizations can reduce deployment risks, enhance collaboration, and achieve faster time-to-market for their products. 
 
 In conclusion, DevOps represents a significant shift in how software is developed and delivered. By integrating
- development and operations, organizations can create a more agile and responsive workflow that meets the demands 
- of modern software development. As the industry continues to evolve, embracing DevOps principles will be critical 
- for companies looking to maintain a competitive edge and deliver high-quality software solutions to their customers.
-
+development and operations, organizations can create a more agile and responsive workflow that meets the demands 
+of modern software development. As the industry continues to evolve, embracing DevOps principles will be critical 
+for companies looking to maintain a competitive edge and deliver high-quality software solutions to their customers.
 Therefore, by the end of the course, students are expected to have a strong understanding of how to implement these practices 
 using popular DevOps tools like Jenkins, GitHub Actions, Docker, and Kubernetes.
