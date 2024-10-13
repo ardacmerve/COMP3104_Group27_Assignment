@@ -15,5 +15,5 @@ collaborative Git workflows, branching strategies, and CI/CD integration.
 The project utilizes GitHub Actions for continuous integration. The workflow is defined 
 in `.github/workflows/ci.yml`.
 ## Branching Strategy
-Each member has their own branch named `STUDENTID-Name`. All changes are 
+Each member has their own branch named `101401294-Ferdos` '101191047-Merve' '101410731-Manya' '101408170-Roda'. All changes are
 merged into the `main` branch via Pull Requests.
