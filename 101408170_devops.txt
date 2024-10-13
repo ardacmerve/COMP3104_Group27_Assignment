@@ -1,0 +1,13 @@
+**DevOps Overview**
+
+DevOps is a set of practices that combines software development (Dev) and IT operations (Ops) to shorten the development life cycle ...
+
+**Key Practices**
+- Continuous Integration (CI)
+- Continuous Deployment (CD)
+- Infrastructure as Code (IaC)
+
+**Tools and Technologies**
+Some popular tools used in DevOps include Docker, Jenkins, Kubernetes, and Git.
+
+
